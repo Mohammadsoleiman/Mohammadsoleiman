@@ -5,7 +5,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="logo.svg" width="140" height="140" alt="Logo"/>
+  <img src="logo.svg" width="150" alt="Mohammad Suleiman Logo"/>
 </p>
 
 <h1 align="center">MOHAMMAD SULEIMAN</h1>
@@ -18,12 +18,12 @@
 ---
 
 ## 🚀 About Me
-I build real-world applications with clean structure, stable backend logic, and beautiful UI touches.  
-Focus: Performance, Maintainability, and Simplicity.
+I develop real-world web applications with clean code structure, strong backend logic, and thoughtful UI experience.  
+Focused on: **Performance**, **Maintainability**, and **Scalability**.
 
-- 🌍 Based in: Lebanon
-- 🧠 Stacks: MERN + Laravel + MySQL + MongoDB
-- 🎯 Goal: Become a senior engineer through consistent daily practice
+- 🌍 Based in: Lebanon  
+- 🧠 Tech Stack: MERN + Laravel + MySQL + MongoDB  
+- 🎯 Goal: Continuous growth & building strong engineering skills  
 
 ---
 
@@ -35,7 +35,6 @@ Focus: Performance, Maintainability, and Simplicity.
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadsoleiman&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammadsoleiman&theme=tokyonight&hide_border=true" width="48%">

@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="banner.png" width="600px" style="border-radius: 12px;" />
+  <img src="banner.png" width="600px"  height="400" style="border-radius: 12px;" />
 </p>
 
 
@@ -46,10 +46,9 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 </p>
 
 ---
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohammadsoleiman/mohammadsoleiman/main/dist/snake.svg" alt="GitHub Snake"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </p>
 
 

@@ -46,9 +46,8 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 </p>
 
 ---
-## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img src="https://github-readme-terminal.vercel.app/api/history?username=mohammadsoleiman&theme=dracula" />
 </p>
 
 

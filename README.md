@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="banner.png" width="850px" style="border-radius: 12px;" />
+  <img src="banner.png" width="600px" style="border-radius: 12px;" />
 </p>
 
 

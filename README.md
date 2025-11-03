@@ -1,11 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner"/>
+  <img src="banner.png" width="850px" style="border-radius: 12px;" />
 </p>
+
 
 <!-- Logo -->
 <p align="center">
-  <img src="logo.svg" width="150" alt="Mohammad Suleiman Logo"/>
+  <img src="logo-icon.svg" width="120" alt="MS Logo" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">MOHAMMAD SULEIMAN</h1>
@@ -48,8 +49,9 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohammadsoleiman/mohammadsoleiman/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mohammadsoleiman/mohammadsoleiman/main/dist/snake.svg" alt="GitHub Snake"/>
 </p>
+
 
 ---
 

@@ -1,0 +1,35 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc" xmlns="http://www.w3.org/2000/svg">
+  <title id="title">Mohammad Suleiman Monogram Logo</title>
+  <desc id="desc">Circular monogram with MS letters and the name below, neon blue-purple gradient on transparent background.</desc>
+
+  <!-- ===== Gradients & Glow ===== -->
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6A5ACD"></stop>
+      <stop offset="100%" stop-color="#3A7BFF"></stop>
+    </linearGradient>
+
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- ===== Emblem (circle + MS) ===== -->
+  <g transform="translate(0, -26)">
+    <circle cx="256" cy="220" r="118" fill="none" stroke="url(#grad)" stroke-width="10" filter="url(#softGlow)"></circle>
+    <!-- Letters -->
+    <g font-family="Inter, Poppins, Segoe UI, Roboto, Arial, sans-serif" font-weight="700" text-anchor="middle" fill="url(#grad)" filter="url(#softGlow)">
+      <text x="256" y="235" font-size="90">MS</text>
+    </g>
+  </g>
+
+  <!-- ===== Name ===== -->
+  <g font-family="Inter, Poppins, Segoe UI, Roboto, Arial, sans-serif" text-anchor="middle" fill="url(#grad)" filter="url(#softGlow)">
+    <text x="256" y="392" font-size="32" font-weight="700" letter-spacing="2">MOHAMMAD SULEIMAN</text>
+  </g>
+</svg>

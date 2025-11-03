@@ -46,18 +46,14 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 </p>
 
 ---
-## 🧑‍💻 Live Code Activity
+## ⌨️ Coding Activity (WakaTime)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsoleiman&bg_color=0a0f1c&color=9b9b9b&line=6A5ACD&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammadsoleiman&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api/history?username=mohammadsoleiman&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/6A5ACD/mohammadsoleiman" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 

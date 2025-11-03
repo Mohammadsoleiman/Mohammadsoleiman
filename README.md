@@ -46,9 +46,6 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api/history?username=mohammadsoleiman&theme=dracula" />
-</p>
 
 ---
 

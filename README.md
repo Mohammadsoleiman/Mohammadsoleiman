@@ -47,7 +47,7 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 
 ---
 <p align="center">
-  <img src="https://ghchart.rshah.org/6A5ACD/mohammadsoleiman" />
+  <img src="https://progress-bar.dev/100/?title=Coding+Focus&width=400&color=6A5ACD" />
 </p>
 
 

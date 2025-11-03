@@ -46,8 +46,14 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 </p>
 
 ---
+## 🧑‍💻 Code Activity Showcase
+
 <p align="center">
-  <img src="https://progress-bar.dev/100/?title=Coding+Focus&width=400&color=6A5ACD" />
+  <img src="https://github-readme-terminal.vercel.app/api/history?username=mohammadsoleiman&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6A5ACD/mohammadsoleiman" />
 </p>
 
 

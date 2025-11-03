@@ -47,9 +47,8 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadsoleiman&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/6A5ACD/mohammadsoleiman" />
 </p>
-
 
 
 ---

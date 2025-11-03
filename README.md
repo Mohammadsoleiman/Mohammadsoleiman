@@ -46,7 +46,11 @@ Focused on: **Performance**, **Maintainability**, and **Scalability**.
 </p>
 
 ---
-## 🧑‍💻 Code Activity Showcase
+## 🧑‍💻 Live Code Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsoleiman&bg_color=0a0f1c&color=9b9b9b&line=6A5ACD&point=ffffff&area=true&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-terminal.vercel.app/api/history?username=mohammadsoleiman&theme=dracula" />

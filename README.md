@@ -21,12 +21,34 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **About Me**
 
 </div>
-```yaml
-name: Mohammad Suleiman
-located_in: Saida, Lebanon 🇱🇧
-current_focus: Building scalable web applications
-education: Computer Science Background
-interests: [Clean Architecture, System Design, Backend Engineering]
+👤 Profile:
+  name: Mohammad Suleiman
+  title: Full-Stack Developer
+  location: Saida, Lebanon 🇱🇧
+  
+💼 Experience:
+  years: 2+
+  type: Production-ready web applications
+  focus: Clean code & scalable systems
+  
+🎓 Education:
+  field: Computer Science
+  specialization: Software Engineering
+  
+🛠️ Tech Stack:
+  frontend: [React, TypeScript, Vite]
+  backend: [Node.js, Express, Laravel]
+  database: [MongoDB, MySQL]
+  
+🎯 Expertise:
+  - System Architecture
+  - RESTful API Design
+  - Database Optimization
+  - Clean Code Principles
+  
+📩 Status:
+  availability: Open to full-time opportunities
+  collaboration: Available for interesting projects
 ```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">

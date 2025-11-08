@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Mohammad+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Real+Business+Solutions+%F0%9F%9A%80;MERN+%2B+Laravel+Specialist+%E2%9A%A1;Clean+Code+Enthusiast+%F0%9F%8E%AF" alt="Typing SVG" />
 
 </div>
-```
+
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadsoleiman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -21,34 +21,16 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **About Me**
 
 </div>
-👤 Profile:
-  name: Mohammad Suleiman
-  title: Full-Stack Developer
-  location: Saida, Lebanon 🇱🇧
-  
-💼 Experience:
-  years: 2+
-  type: Production-ready web applications
-  focus: Clean code & scalable systems
-  
-🎓 Education:
-  field: Computer Science
-  specialization: Software Engineering
-  
-🛠️ Tech Stack:
-  frontend: [React, TypeScript, Vite]
-  backend: [Node.js, Express, Laravel]
-  database: [MongoDB, MySQL]
-  
-🎯 Expertise:
-  - System Architecture
-  - RESTful API Design
-  - Database Optimization
-  - Clean Code Principles
-  
-📩 Status:
-  availability: Open to full-time opportunities
-  collaboration: Available for interesting projects
+```
+name: Mohammad Suleiman
+role: Full-Stack Developer
+location: Saida, Lebanon 🇱🇧
+experience: 2+ years building production systems
+current_focus: Scalable web applications & clean architecture
+education: Computer Science
+specialization: MERN Stack + Laravel
+interests: [System Design, Backend Architecture, Database Optimization]
+availability: Open to full-time opportunities
 ```
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">

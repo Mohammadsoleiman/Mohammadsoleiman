@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Mohammad+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Real+Business+Solutions+%F0%9F%9A%80;MERN+%2B+Laravel+Specialist+%E2%9A%A1;Clean+Code+Enthusiast+%F0%9F%8E%AF" alt="Typing SVG" />
 
 </div>
-
+```
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadsoleiman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />

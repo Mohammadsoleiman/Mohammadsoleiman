@@ -14,37 +14,49 @@
 </p>
 
 ---
-<!-- About Me Section with Gradient Card -->
+
+<!-- About Me Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **About Me**
+## 👋 **About Me**
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-<td>
-```yaml
-name: Mohammad Suleiman
-role: Full-Stack Developer
-location: Saida, Lebanon 🇱🇧
-experience: 2+ years building production systems
-current_focus: Scalable web applications & clean architecture
-education: Computer Science
-specialization: MERN Stack + Laravel
-interests: [System Design, Backend Architecture, Database Optimization]
-availability: Open to full-time opportunities
-```
+<td width="50%">
+
+### 👨‍💻 **Who Am I?**
+```diff
+Name: Mohammad Suleiman
+Role: Full-Stack Developer
+Location: Saida, Lebanon 🇱🇧
+
+
+### 💼 **Experience**
+- ✅ 2+ years building production systems
+- ✅ MERN Stack + Laravel specialist
+- ✅ Focus on clean code & scalability
+
+### 🎯 **Expertise**
+- System Design & Architecture
+- RESTful API Development
+- Database Optimization
+- Clean Code Principles
+
+### 📩 **Status**
+🟢 Open to full-time opportunities
 
 </td>
-<td>
-<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
 </td>
 </tr>
 </table>
 
-<br/>
-
+---
 ### 🎯 **What I Do**
 
 - 🔨 Build **production-ready** web applications

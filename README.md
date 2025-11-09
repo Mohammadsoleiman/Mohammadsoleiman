@@ -56,6 +56,7 @@
 </tr>
 </table>
 ---
+
 ### 🎯 **What I Do**
 
 - 🔨 Build **production-ready** web applications

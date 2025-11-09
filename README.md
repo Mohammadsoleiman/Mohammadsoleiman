@@ -14,9 +14,6 @@
 </p>
 
 ---
-<!-- About Me Section -->
-<div align="center">
-
 <!-- About Me Section with Gradient Card -->
 <div align="center">
 

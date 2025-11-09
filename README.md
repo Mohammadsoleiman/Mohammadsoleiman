@@ -28,10 +28,10 @@
 
 ### 👨‍💻 **Who Am I?**
 ```diff
-Name: Mohammad Suleiman
-Role: Full-Stack Developer
-Location: Saida, Lebanon 🇱🇧
-
++ Name: Mohammad Suleiman
++ Role: Full-Stack Developer
++ Location: Saida, Lebanon 🇱🇧
+```
 
 ### 💼 **Experience**
 - ✅ 2+ years building production systems
@@ -55,7 +55,6 @@ Location: Saida, Lebanon 🇱🇧
 </td>
 </tr>
 </table>
-
 ---
 ### 🎯 **What I Do**
 
